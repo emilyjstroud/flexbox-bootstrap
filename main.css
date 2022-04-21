@@ -1,3 +1,24 @@
 body {
-  background-color: rgb(244, 244, 102) ;
+  background-color: rgb(255, 255, 255) ;
+  margin: 50px;
+}
+
+h1 {
+text-align: center;
+padding: 50px;
+font-family: 'press start 2p';
+}
+
+.btn {
+  margin-top: 50px;
+  background-color: pink;
+  font: white;
+  border: white
+}
+
+img {
+  margin: 0 auto;
+  height: 400px;
+  width: 400px;
+  
 }
